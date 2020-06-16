@@ -1,0 +1,4 @@
+1. Decide which business to order from
+2. Review menu
+3. Decide which which type of pizza to order
+4. Add additional toppings
